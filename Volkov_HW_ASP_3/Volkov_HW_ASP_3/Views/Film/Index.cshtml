@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Volkov_HW_ASP_3.Models.Film>
+
+<div class="container">
+    <h1>Film List</h1>
+    @foreach (var film in Model)
+    {
+            <div class="film-container">
+                <img class="film-image" src="@film.Poster" alt="@film.Name" />
+                <div class="film-details">
+                    <h2>@film.Name</h2>
+                    <p><strong>Year:</strong> @film.Year</p>
+                    <p><strong>Director:</strong> @film.ProducerID.Name</p>
+                    <p><strong>Genre:</strong> @film.GenreID.Name</p>
+                    <p>@film.Description</p>
+                @film.Name
+                </div>
+            </div>
+    }
+</div>

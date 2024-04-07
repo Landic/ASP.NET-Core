@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volkov_HW_ASP_3", "Volkov_HW_ASP_3\Volkov_HW_ASP_3.csproj", "{71347846-0E99-45D1-8A90-64699EC9F625}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71347846-0E99-45D1-8A90-64699EC9F625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71347846-0E99-45D1-8A90-64699EC9F625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71347846-0E99-45D1-8A90-64699EC9F625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71347846-0E99-45D1-8A90-64699EC9F625}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88BB5ED-2717-4C80-ABCA-8F7CDFAFBD59}
+	EndGlobalSection
+EndGlobal

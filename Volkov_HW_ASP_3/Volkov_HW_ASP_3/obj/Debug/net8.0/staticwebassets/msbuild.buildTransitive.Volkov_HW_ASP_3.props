@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Volkov_HW_ASP_3.props" />
+</Project>

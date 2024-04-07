@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Volkov_HW_ASP_3.props" />
+</Project>
