@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Volkov_HW_ASP_3.Models;
 
 namespace Volkov_HW_ASP_3.Controllers
@@ -12,10 +13,11 @@ namespace Volkov_HW_ASP_3.Controllers
             this.dbContext = dbContext;
         }
 
-        public IActionResult Index()
-        {
-            IEnumerable<Film> films = this.dbContext.Films;
-            return View(films); 
-        }
+        public async Task<IActionResult> Index()
+		{
+			IEnumerable<Film> films = await dbContext.Films.Include(f => f.Producer).Include(f => f.Genre).ToListAsync();
+			ViewBag.Films = films;
+			return View();
+		}
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "J9uxUuHM8V9Zu7kzttmXgRzMMpQar9c0jwFAlj+gUA8=",
+  "Hash": "Y3SHe8847nLfjYqeN+22F2E6K9zeqZzbfoNbSvYQZ8U=",
   "Source": "Volkov_HW_ASP_3",
   "BasePath": "_content/Volkov_HW_ASP_3",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
+      "SourceId": "Volkov_HW_ASP_3",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\",
+      "BasePath": "_content/Volkov_HW_ASP_3",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\favicon.ico",

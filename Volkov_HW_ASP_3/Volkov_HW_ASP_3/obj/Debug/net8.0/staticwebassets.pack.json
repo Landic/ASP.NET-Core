@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

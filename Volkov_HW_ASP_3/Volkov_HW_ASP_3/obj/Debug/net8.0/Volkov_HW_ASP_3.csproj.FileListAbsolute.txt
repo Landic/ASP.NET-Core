@@ -70,3 +70,4 @@ D:\Projects\ASP.NET-Core\Volkov_HW_ASP_3\Volkov_HW_ASP_3\bin\Debug\net8.0\runtim
 D:\Projects\ASP.NET-Core\Volkov_HW_ASP_3\Volkov_HW_ASP_3\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Projects\ASP.NET-Core\Volkov_HW_ASP_3\Volkov_HW_ASP_3\obj\Debug\net8.0\Volkov_HW_ASP_3.csproj.AssemblyReference.cache
 D:\Projects\ASP.NET-Core\Volkov_HW_ASP_3\Volkov_HW_ASP_3\obj\Debug\net8.0\Volkov_H.DFC6FF99.Up2Date
+D:\Projects\ASP.NET-Core\Volkov_HW_ASP_3\Volkov_HW_ASP_3\obj\Debug\net8.0\Volkov_HW_ASP_3.sourcelink.json
