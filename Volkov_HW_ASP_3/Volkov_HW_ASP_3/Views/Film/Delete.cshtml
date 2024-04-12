@@ -1,0 +1,29 @@
+﻿@model Volkov_HW_ASP_3.Models.Film
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete</h1>
+<hr/>
+
+<div class="box">
+    <div>
+        <div>
+            <p>Название: @Html.DisplayFor(model => model.Name)</p>
+            <p>Режиссер: @Html.DisplayFor(model => model.Producer.Name)</p>
+            <p>Жанр: @Html.DisplayFor(model => model.Genre.Name)</p>
+            <p>Год: @Html.DisplayFor(model => model.Year)</p>
+            <p>Описани: @Html.DisplayFor(model => model.Description)</p>
+            <img src="@Html.DisplayFor(model => model.Poster)" />
+        </div>
+        <div>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ID" />
+                <input type="submit" value="Delete" class="btn btn-danger" /> |
+                <a asp-action="Index">Back to List</a>
+            </form>
+        </div>
+    </div>
+</div>

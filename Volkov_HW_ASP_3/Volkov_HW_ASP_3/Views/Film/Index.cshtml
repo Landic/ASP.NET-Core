@@ -1,4 +1,13 @@
-﻿@foreach(var film in ViewBag.Films)
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+	<a asp-action="Create">Create New</a>
+</p>
+
+@foreach(var film in ViewBag.Films)
 {
 	<div class="box">
 		<img src="@film.Poster"/>
@@ -8,6 +17,8 @@
 			<p>Жанр: @film.Genre.Name</p>
 			<p>Год: @film.Year</p>
 			<p>Описание: @film.Description</p>
+			<a asp-action="Edit" asp-route-id="@film.ID">Edit</a>
+			<a asp-action="Delete" asp-route-id="@film.ID">Delete</a>
 		</div>
 	</div>
 }

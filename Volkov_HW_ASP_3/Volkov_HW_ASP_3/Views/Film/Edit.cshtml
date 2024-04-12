@@ -1,0 +1,62 @@
+﻿@model Volkov_HW_ASP_3.Models.Film
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+<hr/>
+
+<div class="box">
+	<form asp-action="Edit" enctype="multipart/form-data" class="mplate">
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+		<input type="hidden" asp-for="Poster" value="@Model.Poster" />
+		<div class="form-group">
+			<label asp-for="Name"></label>
+			<input asp-for="Name" />
+			<span asp-validation-for="Name" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="ProducerID"></label>
+			<select asp-for="ProducerID" asp-items="ViewBag.ProducerID"></select>
+			<span asp-validation-for="ProducerID" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="GenreID"></label>
+			<select asp-for="GenreID" asp-items="ViewBag.GenreID"></select>
+			<span asp-validation-for="GenreID" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Year"></label>
+			<input asp-for="Year" type="number" />
+			<span asp-validation-for="Year" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Poster"></label>
+			<input asp-for="Poster" type="file" class="form-control" name="uploadedFile" />
+			<span asp-validation-for="Poster" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Description"></label>
+			<input asp-for="Description" />
+			<span asp-validation-for="Description" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Edit" />
+		</div>
+		<div>
+			<img src="@Url.Content(Model.Poster)" />
+		</div>
+	</form>
+</div>
+
+<div>
+	<a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
