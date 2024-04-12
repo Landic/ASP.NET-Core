@@ -151,5 +151,21 @@ namespace Volkov_HW_ASP_3.Controllers
 		{
 			return dbContext.Films.Any(e => e.ID == id);
 		}
-	}
+
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var film = await dbContext.Films.FirstOrDefaultAsync(m => m.ID == id);
+            if (film == null)
+            {
+                return NotFound();
+            }
+            IEnumerable<Film> films = await dbContext.Films.Include(f => f.Producer).Include(f => f.Genre).ToListAsync();
+            return View(film);
+        }
+    }
 }

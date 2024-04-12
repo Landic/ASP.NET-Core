@@ -25,12 +25,20 @@
       "PackagePath": "staticwebassets\\img\\1.png"
     },
     {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\174d22ad-34c3-47aa-a3d3-e3bcb0bf3061_64c8cf90509382587e4965a2378f504d.jpg",
+      "PackagePath": "staticwebassets\\img\\174d22ad-34c3-47aa-a3d3-e3bcb0bf3061_64c8cf90509382587e4965a2378f504d.jpg"
+    },
+    {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\17f58523-4887-4974-b782-7ed91f990431_1.jpg",
       "PackagePath": "staticwebassets\\img\\17f58523-4887-4974-b782-7ed91f990431_1.jpg"
     },
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\2325bb06-54ff-496b-90e7-5016e616bc84_1.jpg",
       "PackagePath": "staticwebassets\\img\\2325bb06-54ff-496b-90e7-5016e616bc84_1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\291f6162-2e58-4c21-a6c4-00627be406f7_ce866214f3a08b6e551f86b7cfe27e95.jpg",
+      "PackagePath": "staticwebassets\\img\\291f6162-2e58-4c21-a6c4-00627be406f7_ce866214f3a08b6e551f86b7cfe27e95.jpg"
     },
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\3.jpg",
@@ -47,6 +55,14 @@
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\7a9b81a3-046e-4fb8-8c50-5335dbe1a39d_1.jpg",
       "PackagePath": "staticwebassets\\img\\7a9b81a3-046e-4fb8-8c50-5335dbe1a39d_1.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\8334c94a-68ac-4652-a3a2-f08072f58673_e6bb68a55c9105e7530d12d42635aabb.jpg",
+      "PackagePath": "staticwebassets\\img\\8334c94a-68ac-4652-a3a2-f08072f58673_e6bb68a55c9105e7530d12d42635aabb.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\97fbac15-6a28-4f22-a0bd-a7f67c96f2d8_c72e3bd8b2ab21e57ba501249103239d.jpg",
+      "PackagePath": "staticwebassets\\img\\97fbac15-6a28-4f22-a0bd-a7f67c96f2d8_c72e3bd8b2ab21e57ba501249103239d.jpg"
     },
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\Annabelle.jpg",
@@ -83,6 +99,10 @@
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\TheShawshankRedemption.jpg",
       "PackagePath": "staticwebassets\\img\\TheShawshankRedemption.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\cb2e5305-8fe1-4513-987d-c0277b73a16f_ce866214f3a08b6e551f86b7cfe27e95.jpg",
+      "PackagePath": "staticwebassets\\img\\cb2e5305-8fe1-4513-987d-c0277b73a16f_ce866214f3a08b6e551f86b7cfe27e95.jpg"
     },
     {
       "Id": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\img\\ea28caa2-8bfb-4edb-8ea3-f7245f1366c0_1.jpg",

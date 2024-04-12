@@ -1,14 +1,14 @@
 ﻿@model Volkov_HW_ASP_3.Models.Film
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Details";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
 <h1>Delete</h1>
-<hr/>
+<hr />
 
-<div class="box">
+<div class="box2">
     <div>
         <div>
             <p>Название: @Html.DisplayFor(model => model.Name)</p>
@@ -16,14 +16,12 @@
             <p>Жанр: @Html.DisplayFor(model => model.Genre.Name)</p>
             <p>Год: @Html.DisplayFor(model => model.Year)</p>
             <p>Описани: @Html.DisplayFor(model => model.Description)</p>
-            <img src="@Html.DisplayFor(model => model.Poster)" class="image-info"/>
+        </div>
+        <div class="images">
+            <img src="@Html.DisplayFor(model => model.Poster)" class="image-info" />
         </div>
         <div>
-            <form asp-action="Delete">
-                <input type="hidden" asp-for="ID" />
-                <input type="submit" value="Delete" class="butt" />
-                <a asp-action="Index">Обратно к списку</a>
-            </form>
+            <a asp-action="Index">Обратно к списку</a>
         </div>
     </div>
 </div>

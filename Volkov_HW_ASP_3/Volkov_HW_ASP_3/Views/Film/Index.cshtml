@@ -4,7 +4,7 @@
 }
 
 <p>
-	<a asp-action="Create">Create New</a>
+	<a asp-action="Create">Добавить новый фильм</a>
 </p>
 
 @foreach(var film in ViewBag.Films)
@@ -17,8 +17,9 @@
 			<p>Жанр: @film.Genre.Name</p>
 			<p>Год: @film.Year</p>
 			<p>Описание: @film.Description</p>
-			<a asp-action="Edit" asp-route-id="@film.ID">Edit</a>
-			<a asp-action="Delete" asp-route-id="@film.ID">Delete</a>
+			<a asp-action="Edit" asp-route-id="@film.ID">Изменить</a>
+			<a asp-action="Delete" asp-route-id="@film.ID">Удалить</a>
+			<a asp-action="Details" asp-route-id="@film.ID">Информация</a>
 		</div>
 	</div>
 }

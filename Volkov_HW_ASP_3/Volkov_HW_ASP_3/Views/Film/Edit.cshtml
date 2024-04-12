@@ -8,8 +8,8 @@
 <h1>Edit</h1>
 <hr/>
 
-<div class="box">
-	<form asp-action="Edit" enctype="multipart/form-data" class="mplate">
+<div class="box2">
+	<form asp-action="Edit" enctype="multipart/form-data" class="template">
 		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
 		<input type="hidden" asp-for="Poster" value="@Model.Poster" />
 		<div class="form-group">
@@ -43,16 +43,13 @@
 			<span asp-validation-for="Description" class="text-danger"></span>
 		</div>
 		<div class="form-group">
-			<input type="submit" value="Edit" />
+			<input type="submit" value="Edit" class="butt"/>
+			<a asp-action="Index" class="back">Обратно к списку</a>
 		</div>
-		<div>
-			<img src="@Url.Content(Model.Poster)" />
+		<div class="image">
+			<img src="@Url.Content(Model.Poster)" class="image-edit"/>
 		</div>
 	</form>
-</div>
-
-<div>
-	<a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
