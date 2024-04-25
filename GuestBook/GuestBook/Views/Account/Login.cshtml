@@ -1,0 +1,38 @@
+﻿@model GuestBook.Models.LoginModel
+
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="box-login">
+        <form asp-action="Login">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Login" class="control-label"></label>
+            <input asp-for="Login" class="inp" />
+                <span asp-validation-for="Login" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="inp"/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Вход" class="butt" />
+		    </div>
+        <div class="form-group">
+			    <a href="Register">Создать новый аккаунт</a>
+		    </div>
+            <div class="form-group">
+                <a asp-action="Continue">Продолжить как гость</a>
+            </div>
+
+        </form>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

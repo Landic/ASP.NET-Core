@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\GuestBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\message\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\message\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Services\\Message.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Services\\Message.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Services\\Message.cs",
+              "RelativeToolTip": "GuestBook\\Services\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:54:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Services\\User.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Services\\User.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Services\\User.cs",
+              "RelativeToolTip": "GuestBook\\Services\\User.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA4wD0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:17:01.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GuestBook\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GuestBook\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T18:07:50.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Models\\Messages.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Models\\Messages.cs",
+              "RelativeToolTip": "GuestBook\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:37:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "GuestBook\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "GuestBook\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T17:09:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Program.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Program.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Program.cs",
+              "RelativeToolTip": "GuestBook\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:23:59.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:03:13.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 26,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GuestBook\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T18:54:21.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "GuestBook\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:58:43.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T10:40:42.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:55:19.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Message\\Message.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\Message\\Message.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Views\\Message\\Message.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\Message\\Message.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:05:18.23Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

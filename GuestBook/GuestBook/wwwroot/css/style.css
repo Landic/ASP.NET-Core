@@ -1,0 +1,110 @@
+﻿body  {
+    background: whitesmoke;
+}
+
+.box-register{
+    padding: 25px;
+    min-width: 25%;
+    width: 50%;
+    margin: auto;
+}
+
+.butt {
+    margin-top: 15px;
+    width: 30%;
+    background: white;
+    border: 1px silver solid;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.butt:hover {
+    background: rgb(200, 200, 200);
+    transition: 0.2s;
+}
+
+.butt:active {
+    background: rgb(180,180,180);
+}
+
+.box-register .register-form div{
+    margin-bottom: 15px;
+}
+
+.box-login {
+    padding: 25px;
+    min-width: 25%;
+    width: 40%;
+    margin: auto;
+}
+
+.form-group{
+    margin-bottom: 15px
+}
+
+.inp{
+    width: 100%;
+    border: 1px silver solid;
+    padding: 7px;
+    border-radius: 15px
+}
+
+
+.section-message {
+    margin: auto;
+    padding: 15px;
+    height: 75vh;
+    width: 100%;
+    overflow: scroll;
+    overflow-x: auto;
+}
+
+.message{
+    border: 1px solid gray;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.section-message .box-info {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid silver;
+    padding: 10px;
+}
+
+.box-message{
+    padding: 10px;
+}
+
+.box-send2 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.text {
+    width: 90%;
+    border: 1px silver solid;
+    padding: 7px;
+    border-radius: 15px;
+    resize: none;
+}
+
+.butt-send {
+    width: 10%;
+    background: white;
+    border: 1px silver solid;
+    border-radius: 15px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+.butt-send:hover {
+    background: rgb(200, 200, 200);
+    transition: 0.2s;
+}
+
+.butt-send:active {
+    background: rgb(180,180,180);
+}

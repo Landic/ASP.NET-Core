@@ -1,0 +1,53 @@
+﻿@model GuestBook.Models.Messages
+
+@{
+    ViewBag.Title = "Message";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<header >
+	<nav class="navbar navbar-expand-sm navbar-toggleable-sm mb-3">
+		<div class="container-fluid">
+			@if (Context.Session.GetString("Login") == "Guest")
+			{
+				<a class="navbar-brand" asp-area="" asp-controller="Account" asp-action="Register">Регистрация</a>
+			}
+			else
+			{
+				<span class="navbar-brand">@Context.Session.GetString("FullName")</span>
+				<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Logout">Выход</a>
+			}
+		</div>
+	</nav>
+</header>
+
+<section class="section-message">
+	@foreach (var i in ViewBag.Message)
+	{
+		<div class="message">
+			<div class="box-info">
+				<span>@i.User.FullName</span>
+				<span>@i.Message_Date</span>
+			</div>
+			<div class="box-message">
+				<p>@i.Message</p>
+			</div>
+		</div>
+
+	}
+</section>
+<div class="box-send">
+		<form asp-action="Send" method="post">
+			@if (Context.Session.GetString("Login") != "Guest")
+			{
+				<div class="box-send2">
+					<textarea placeholder="Введите сообщение..." asp-for="Message" class="text"></textarea>
+					<input type="submit" class="butt-send" />
+				</div>
+			}
+			else
+			{
+			<a href="Account/Register">Чтобы отправлять сообщения нужно пройти регистрацию...</a>
+			}
+		</form>
+</div>
