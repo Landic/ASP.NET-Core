@@ -6,6 +6,7 @@ namespace GuestBook.Models
     {
         [Required]
 		[Display(Name = "Полное имя")]
+		[RegularExpression(@"^[^\d]+$", ErrorMessage = "Имя пользователя не должно содержать цифры")]
 		public string Fullname { get; set; }
         [Required]
 		[Display(Name = "Логин")]

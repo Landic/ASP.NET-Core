@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Volkov_HW_ASP_3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5543b08a95dee314270c8fffb99d74a803c361bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67605a0c77c56ad45c0e8d4d513806bd5e0ec5c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Volkov_HW_ASP_3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Volkov_HW_ASP_3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
