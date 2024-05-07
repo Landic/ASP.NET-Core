@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "qhyq3C47KTRKGTGLT7Yk7rn5nJ4Aly44ACIE7xo7vIk=",
+  "Source": "Weather",
+  "BasePath": "_content/Weather",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather\\wwwroot",
+      "Source": "Weather",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\index.html",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\script.js",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\style.css",
+      "SourceId": "Weather",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\Weather\\Weather\\wwwroot\\",
+      "BasePath": "_content/Weather",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
