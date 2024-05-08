@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\\u0421onveyor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE529BB-4ECD-4FB0-8713-7F7A5C346BA2}|\u0421onveyor\\\u0421onveyor.csproj|d:\\projects\\asp.net-core\\\u0441onveyor\\\u0441onveyor\\extensions\\fromtwentytohundred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE529BB-4ECD-4FB0-8713-7F7A5C346BA2}|\u0421onveyor\\\u0421onveyor.csproj|solutionrelative:\u0441onveyor\\extensions\\fromtwentytohundred.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE529BB-4ECD-4FB0-8713-7F7A5C346BA2}|\u0421onveyor\\\u0421onveyor.csproj|d:\\projects\\asp.net-core\\\u0441onveyor\\\u0441onveyor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AE529BB-4ECD-4FB0-8713-7F7A5C346BA2}|\u0421onveyor\\\u0421onveyor.csproj|solutionrelative:\u0441onveyor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FromTwentyToHundred.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\\u0421onveyor\\\u0421onveyor\\Extensions\\FromTwentyToHundred.cs",
+              "RelativeDocumentMoniker": "\u0421onveyor\\Extensions\\FromTwentyToHundred.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\\u0421onveyor\\\u0421onveyor\\Extensions\\FromTwentyToHundred.cs",
+              "RelativeToolTip": "\u0421onveyor\\Extensions\\FromTwentyToHundred.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:21:21.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\\u0421onveyor\\\u0421onveyor\\Program.cs",
+              "RelativeDocumentMoniker": "\u0421onveyor\\Program.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\\u0421onveyor\\\u0421onveyor\\Program.cs",
+              "RelativeToolTip": "\u0421onveyor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T22:10:14.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
