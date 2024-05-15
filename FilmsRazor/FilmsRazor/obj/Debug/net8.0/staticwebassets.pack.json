@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FilmsRazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FilmsRazor.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\11d76028-4838-4ee3-881e-70fcde252aaf_Снимок экрана 2024-03-20 121727.png",
+      "PackagePath": "staticwebassets\\img\\11d76028-4838-4ee3-881e-70fcde252aaf_Снимок экрана 2024-03-20 121727.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\13eb11a3-75aa-4842-9874-70be42120471_Снимок экрана 2024-03-20 131441.png",
+      "PackagePath": "staticwebassets\\img\\13eb11a3-75aa-4842-9874-70be42120471_Снимок экрана 2024-03-20 131441.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\2a7adc93-296d-475b-adb8-0a82a85dd781_Снимок экрана 2024-03-20 121731.png",
+      "PackagePath": "staticwebassets\\img\\2a7adc93-296d-475b-adb8-0a82a85dd781_Снимок экрана 2024-03-20 121731.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\391057ee-d6ed-4db6-ba79-5cdfcc2a8e23_Снимок экрана 2024-03-20 121731.png",
+      "PackagePath": "staticwebassets\\img\\391057ee-d6ed-4db6-ba79-5cdfcc2a8e23_Снимок экрана 2024-03-20 121731.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\93029428-f41e-48e9-8a58-cfcbb47bb9bc_Снимок экрана 2024-03-20 123013.png",
+      "PackagePath": "staticwebassets\\img\\93029428-f41e-48e9-8a58-cfcbb47bb9bc_Снимок экрана 2024-03-20 123013.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\9d1569d3-a3c6-4e6c-b946-1721e981e799_Снимок экрана 2024-03-20 121731.png",
+      "PackagePath": "staticwebassets\\img\\9d1569d3-a3c6-4e6c-b946-1721e981e799_Снимок экрана 2024-03-20 121731.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\9ec2c786-7261-4e76-ab0b-0039df46e79b_Снимок экрана 2024-03-20 123013.png",
+      "PackagePath": "staticwebassets\\img\\9ec2c786-7261-4e76-ab0b-0039df46e79b_Снимок экрана 2024-03-20 123013.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\Annabelle.jpg",
+      "PackagePath": "staticwebassets\\img\\Annabelle.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\Divergent.jpg",
+      "PackagePath": "staticwebassets\\img\\Divergent.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\FightClub.jpg",
+      "PackagePath": "staticwebassets\\img\\FightClub.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\Insidious.jpg",
+      "PackagePath": "staticwebassets\\img\\Insidious.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\Matrix.jpg",
+      "PackagePath": "staticwebassets\\img\\Matrix.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\NeverSayNeverAgain.jpg",
+      "PackagePath": "staticwebassets\\img\\NeverSayNeverAgain.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\TheGodfather.jpg",
+      "PackagePath": "staticwebassets\\img\\TheGodfather.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\TheLordOfTheRings.jpg",
+      "PackagePath": "staticwebassets\\img\\TheLordOfTheRings.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\TheShawshankRedemption.jpg",
+      "PackagePath": "staticwebassets\\img\\TheShawshankRedemption.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\bedb7bc2-f99c-4964-89aa-88151257b2c5_Снимок экрана 2024-03-20 131229.png",
+      "PackagePath": "staticwebassets\\img\\bedb7bc2-f99c-4964-89aa-88151257b2c5_Снимок экрана 2024-03-20 131229.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\f3b8d6ec-7bf1-4ce4-aad2-18cc85a1645d_Снимок экрана 2024-03-20 121731.png",
+      "PackagePath": "staticwebassets\\img\\f3b8d6ec-7bf1-4ce4-aad2-18cc85a1645d_Снимок экрана 2024-03-20 121731.png"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\img\\joker.jpg",
+      "PackagePath": "staticwebassets\\img\\joker.jpg"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FilmsRazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FilmsRazor.props",
+      "PackagePath": "build\\FilmsRazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FilmsRazor.props",
+      "PackagePath": "buildMultiTargeting\\FilmsRazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FilmsRazor.props",
+      "PackagePath": "buildTransitive\\FilmsRazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

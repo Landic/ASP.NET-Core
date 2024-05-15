@@ -1,0 +1,59 @@
+﻿@page
+@model FilmsRazor.Pages.EditModel
+@{
+	ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+<hr />
+
+<div class="box2">
+	<form asp-action="Edit" enctype="multipart/form-data" class="template">
+		<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+		<input type="hidden" asp-for="Film.Poster" value="@Model.Film.Poster" />
+		<input type="hidden" asp-for="Film.ID" />
+		<div class="form-group">
+			<label asp-for="Film.Name"></label>
+			<input asp-for="Film.Name" />
+			<span asp-validation-for="Film.Name" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Film.ProducerID"></label>
+			<select asp-for="Film.ProducerID" asp-items="ViewBag.ProducerID"></select>
+			<span asp-validation-for="Film.ProducerID" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Film.GenreID"></label>
+			<select asp-for="Film.GenreID" asp-items="ViewBag.GenreID"></select>
+			<span asp-validation-for="Film.GenreID" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Film.Year"></label>
+			<input asp-for="Film.Year" type="number" />
+			<span asp-validation-for="Film.Year" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Film.Poster"></label>
+			<input asp-for="Film.Poster" type="file" class="form-control" name="uploadedFile" />
+			<span asp-validation-for="Film.Poster" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Film.Description"></label>
+			<input asp-for="Film.Description" />
+			<span asp-validation-for="Film.Description" class="text-danger"></span>
+		</div>
+		<div class="form-group">
+			<input type="submit" value="Edit" class="butt" />
+			<a asp-page="./Index" class="back">Обратно к списку</a>
+		</div>
+		<div class="image">
+			<img src="@Model.Film.Poster" class="image-edit" />
+		</div>
+	</form>
+</div>
+
+@section Scripts {
+	@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}

@@ -3,36 +3,60 @@
   "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|d:\\projects\\asp.net-core\\volkov_hw_asp_3\\volkov_hw_asp_3\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\controllers\\filmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|d:\\projects\\asp.net-core\\volkov_hw_asp_3\\volkov_hw_asp_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|d:\\projects\\asp.net-core\\volkov_hw_asp_3\\volkov_hw_asp_3\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\views\\film\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\models\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\models\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\models\\producer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\volkov_hw_asp_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71347846-0E99-45D1-8A90-64699EC9F625}|Volkov_HW_ASP_3\\Volkov_HW_ASP_3.csproj|solutionrelative:volkov_hw_asp_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +66,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 27,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Create.cshtml",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Views\\Film\\Create.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Create.cshtml",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Views\\Film\\Create.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T11:45:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producer.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Producer.cs",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Models\\Producer.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Producer.cs",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Models\\Producer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:49:23.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Models\\Genre.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Genre.cs",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:49:16.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmDBContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\FilmDBContext.cs",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Models\\FilmDBContext.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\FilmDBContext.cs",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Models\\FilmDBContext.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:49:08.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Program.cs",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Program.cs",
@@ -54,99 +127,118 @@
               "RelativeToolTip": "Volkov_HW_ASP_3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T11:09:59.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T11:09:59.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\appsettings.json",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\appsettings.json",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\appsettings.json",
               "RelativeToolTip": "Volkov_HW_ASP_3\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-15T23:23:46.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T23:23:46.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FilmAttribute.cs",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Annotations\\FilmAttribute.cs",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Annotations\\FilmAttribute.cs",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Annotations\\FilmAttribute.cs",
               "RelativeToolTip": "Volkov_HW_ASP_3\\Annotations\\FilmAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T06:05:38.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T06:05:38.099Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Film.cs",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Film.cs",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Models\\Film.cs",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Models\\Film.cs",
               "RelativeToolTip": "Volkov_HW_ASP_3\\Models\\Film.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T06:05:09.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T06:05:09.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FilmController.cs",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Controllers\\FilmController.cs",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Controllers\\FilmController.cs",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Controllers\\FilmController.cs",
               "RelativeToolTip": "Volkov_HW_ASP_3\\Controllers\\FilmController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwHMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T06:01:25.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Views\\Film\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Delete.cshtml",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Views\\Film\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T21:31:30.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Details.cshtml",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Views\\Film\\Details.cshtml",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Details.cshtml",
               "RelativeToolTip": "Volkov_HW_ASP_3\\Views\\Film\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-12T11:30:26.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "style.css",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
               "RelativeToolTip": "Volkov_HW_ASP_3\\wwwroot\\css\\style.css",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHIAAAANAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwHAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-12T11:00:08.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T11:00:08.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Edit.cshtml",
               "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Views\\Film\\Edit.cshtml",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Edit.cshtml",
               "RelativeToolTip": "Volkov_HW_ASP_3\\Views\\Film\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAATAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-11T23:33:38.241Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Index.cshtml",
+              "RelativeDocumentMoniker": "Volkov_HW_ASP_3\\Views\\Film\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\Volkov_HW_ASP_3\\Volkov_HW_ASP_3\\Views\\Film\\Index.cshtml",
+              "RelativeToolTip": "Volkov_HW_ASP_3\\Views\\Film\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T11:53:04.472Z"
             }
           ]
         }

@@ -1,0 +1,26 @@
+﻿@page
+@model DetailsModel
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Delete</h1>
+<hr />
+
+<div class="box2">
+    <div>
+        <div>
+            <p>Название: @Html.DisplayFor(model => model.film.Name)</p>
+            <p>Режиссер: @Html.DisplayFor(model => model.film.Producer.Name)</p>
+            <p>Жанр: @Html.DisplayFor(model => model.film.Genre.Name)</p>
+            <p>Год: @Html.DisplayFor(model => model.film.Year)</p>
+            <p>Описани: @Html.DisplayFor(model => model.film.Description)</p>
+        </div>
+        <div class="images">
+            <img src="@Model.film.Poster" class="image-info" />
+        </div>
+        <div>
+            <a asp-page="./Index">Обратно к списку</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\models\\film.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\annotations\\filmattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\models\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\models\\filmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\repository\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\repository\\filmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|d:\\projects\\asp.net-core\\filmsrazor\\filmsrazor\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC145-615B-4E95-9C83-74362FFCE93C}|FilmsRazor\\FilmsRazor.csproj|solutionrelative:filmsrazor\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmAttribute.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Annotations\\FilmAttribute.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Annotations\\FilmAttribute.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Annotations\\FilmAttribute.cs",
+              "RelativeToolTip": "FilmsRazor\\Annotations\\FilmAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:22:32.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Film.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Models\\Film.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Models\\Film.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Models\\Film.cs",
+              "RelativeToolTip": "FilmsRazor\\Models\\Film.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:22:18.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilmDBContext.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Models\\FilmDBContext.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Models\\FilmDBContext.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Models\\FilmDBContext.cs",
+              "RelativeToolTip": "FilmsRazor\\Models\\FilmDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:22:16.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:22:06.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Details.cshtml.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Details.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:22:00.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Edit.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T13:21:37.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAIwC8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:08:52.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Create.cshtml.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:50:17.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "FilmsRazor\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:42:37.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FilmService.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Repository\\FilmService.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Repository\\FilmService.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Repository\\FilmService.cs",
+              "RelativeToolTip": "FilmsRazor\\Repository\\FilmService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:37:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "FilmsRazor\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\FilmsRazor\\FilmsRazor\\Repository\\IRepository.cs",
+              "RelativeToolTip": "FilmsRazor\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:35:52.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

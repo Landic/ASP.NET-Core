@@ -1,0 +1,28 @@
+﻿@page
+@model FilmsRazor.Pages.DeleteModel
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+<hr />
+
+<div class="box">
+    <div>
+        <div>
+            <p>Название: @Html.DisplayFor(model => model.film.Name)</p>
+            <p>Режиссер: @Html.DisplayFor(model => model.film.Producer.Name)</p>
+            <p>Жанр: @Html.DisplayFor(model => model.film.Genre.Name)</p>
+            <p>Год: @Html.DisplayFor(model => model.film.Year)</p>
+            <p>Описани: @Html.DisplayFor(model => model.film.Description)</p>
+            <img src="@Html.DisplayFor(model => model.film.Poster)" class="image-info" />
+        </div>
+        <div>
+            <form method="post">
+                <input type="hidden" asp-for="film.ID" />
+                <input type="submit" value="Delete" class="butt" />
+                <a asp-page="./Index">Обратно к списку</a>
+            </form>
+        </div>
+    </div>
+</div>

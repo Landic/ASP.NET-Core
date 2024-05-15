@@ -1,0 +1,26 @@
+﻿@page "{handler?}"
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<p>
+	<a asp-page="./Create">Добавить новый фильм</a>
+</p>
+
+@foreach (var film in Model.Film)
+{
+	<div class="box">
+		<img src="@film.Poster" />
+		<div>
+			<p>Название: @film.Name</p>
+			<p>Режиссер: @film.Producer.Name</p>
+			<p>Жанр: @film.Genre.Name</p>
+			<p>Год: @film.Year</p>
+			<p>Описание: @film.Description</p>
+			<a asp-page="./Edit" asp-route-id="@film.ID">Изменить</a>
+			<a asp-page="./Delete" asp-route-id="@film.ID">Удалить</a>
+			<a asp-page="./Details" asp-route-id="@film.ID">Информация</a>
+		</div>
+	</div>
+}

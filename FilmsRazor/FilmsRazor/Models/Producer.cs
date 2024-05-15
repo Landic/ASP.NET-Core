@@ -1,0 +1,13 @@
+﻿namespace FilmsRazor.Models
+{
+	public class Producer
+	{
+		public int ID { get; set; }
+		public string Name { get; set; }
+		public ICollection<Film> Films { get; set; }
+		public override string ToString()
+		{
+			return Name;
+		}
+	}
+}
