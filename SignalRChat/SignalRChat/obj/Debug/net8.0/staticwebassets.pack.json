@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\scritp.js",
+      "PackagePath": "staticwebassets\\scritp.js"
+    },
+    {
+      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SignalRChat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SignalRChat.props",
+      "PackagePath": "build\\SignalRChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRChat.props",
+      "PackagePath": "buildMultiTargeting\\SignalRChat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SignalRChat.props",
+      "PackagePath": "buildTransitive\\SignalRChat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

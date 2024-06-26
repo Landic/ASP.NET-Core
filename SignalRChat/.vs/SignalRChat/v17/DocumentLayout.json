@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\wwwroot\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\model\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\model\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|c:\\users\\diedu\\desktop\\volkov_hw\\signalrchat\\signalrchat\\model\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1710C053-E19C-4992-8019-8445A8F42773}|SignalRChat\\SignalRChat.csproj|solutionrelative:signalrchat\\model\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+              "RelativeDocumentMoniker": "SignalRChat\\wwwroot\\style.css",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+              "RelativeToolTip": "SignalRChat\\wwwroot\\style.css",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-26T21:38:56.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "SignalRChat\\wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\script.js",
+              "RelativeToolTip": "SignalRChat\\wwwroot\\script.js",
+              "ViewState": "AQIAACgAAAAAAAAAAAAUwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-26T21:38:48.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "SignalRChat\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+              "RelativeToolTip": "SignalRChat\\wwwroot\\index.html",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvx0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-26T21:38:40.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRChat\\appsettings.json",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\appsettings.json",
+              "RelativeToolTip": "SignalRChat\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T21:37:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\User.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\User.cs",
+              "RelativeToolTip": "SignalRChat\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:25:48.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\ChatDBContext.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\Model\\ChatDBContext.cs",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\ChatDBContext.cs",
+              "RelativeToolTip": "SignalRChat\\Model\\ChatDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:25:32.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\Messages.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\Model\\Messages.cs",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Model\\Messages.cs",
+              "RelativeToolTip": "SignalRChat\\Model\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:25:40.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\Program.cs",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\Program.cs",
+              "RelativeToolTip": "SignalRChat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:22:51.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "SignalRChat\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\ChatHub.cs",
+              "RelativeToolTip": "SignalRChat\\ChatHub.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T21:28:14.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

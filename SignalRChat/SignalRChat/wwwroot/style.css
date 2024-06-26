@@ -1,0 +1,70 @@
+﻿.container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.login-section,
+.chat-section {
+    padding: 25px;
+}
+
+.login-section {
+    border: 1px solid gray;
+    border-radius: 25px;
+}
+
+.chat-header {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.chat-body {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.message-container {
+    flex: 1;
+    padding-right: 20px;
+    height: 50vh;
+    overflow-y: auto;
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.user-info {
+    width: 200px;
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.user-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.chat-footer {
+    margin-top: 20px;
+    display: flex;
+    gap: 10px; 
+    border: 1px solid gray;
+    border-radius: 25px;
+    padding: 25px;
+
+}
+
+.form-control {
+    width: 100%;
+    resize: none;
+}
+
+.btn {
+    align-self: flex-end;
+}

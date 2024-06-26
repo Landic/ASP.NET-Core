@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "MjrtkfoYVEhDAX0utIQP+izJENAbaeLsgucUkqnQ0Ok=",
+  "Source": "SignalRChat",
+  "BasePath": "_content/SignalRChat",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRChat\\wwwroot",
+      "Source": "SignalRChat",
+      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\scritp.js",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "scritp.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scritp.js"
+    },
+    {
+      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+      "SourceId": "SignalRChat",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "BasePath": "_content/SignalRChat",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
