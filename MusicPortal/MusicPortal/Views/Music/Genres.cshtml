@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MusicPortal.BLL.DTO.GenreDTO>
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="topbutt">
+    <a asp-action="Index" class="btn2">@Resources.Resource.Back</a>
+    <a asp-action="ToAddGenre" class="btn2">@Resources.Resource.AddGenre</a>
+</div>
+<div >
+    @foreach (var genre in Model) {
+        <div class="list">
+            <div>
+                <span>@genre.Name</span>
+            </div>
+            <div>
+                <a asp-action="ToEditGenre" asp-route-genreId="@genre.Id" class="btn2">@Resources.Resource.Edit</a>
+                <a asp-action="DeleteGenre" asp-route-genreId="@genre.Id" class="btn2">@Resources.Resource.Delete</a>
+            </div>
+        </div>
+    }
+</div>

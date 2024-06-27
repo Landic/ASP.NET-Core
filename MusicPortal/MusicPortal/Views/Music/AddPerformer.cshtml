@@ -1,0 +1,20 @@
+﻿@model MusicPortal.BLL.DTO.PerformerDTO
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="AddPerformer" class="forms mini">
+    <input asp-for="FullName" class="inputs" placeholder="@Resources.Resource.FullnamePerformer" />
+    <span asp-validation-for="FullName" class="validation-error"></span>
+    <div class="form-bottom">
+        <a asp-action="ToPerformers" class="btn2">@Resources.Resource.Reset</a>
+        <input type="submit" value="@Resources.Resource.Add" class="button-link" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

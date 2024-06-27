@@ -1,0 +1,46 @@
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPor.4A39A387.Up2Date
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\refint\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\APS-NET-main\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\ref\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.deps.json
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.AssemblyReference.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfoInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfo.cs
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.CoreCompileInputs.cache
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPor.4A39A387.Up2Date
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\refint\MusicPortal.BLL.dll
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.pdb
+C:\Users\mrwol\OneDrive\Рабочий стол\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\ref\MusicPortal.BLL.dll
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.deps.json
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.dll
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.BLL.pdb
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.dll
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\bin\Debug\net8.0\MusicPortal.DAL.pdb
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.AssemblyReference.cache
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfoInputs.cache
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.AssemblyInfo.cs
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.sourcelink.json
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPor.4A39A387.Up2Date
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.dll
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\refint\MusicPortal.BLL.dll
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\MusicPortal.BLL.pdb
+D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal.BLL\obj\Debug\net8.0\ref\MusicPortal.BLL.dll

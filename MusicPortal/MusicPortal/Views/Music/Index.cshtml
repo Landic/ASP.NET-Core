@@ -1,0 +1,68 @@
+﻿@model MusicPortal.Models.Index
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<main class="main-container">
+    <section class="section-menu">
+        @if (Context.Session.GetString("Login") != "Admin" && Context.Session.GetString("Authorization") == "True")
+        {
+            <p class="text">@Resources.Resource.Welcome, @Context.Session.GetString("Login"). <a asp-action="Logout" class="href">@Resources.Resource.Exit</a></p>
+            <a asp-action="ToAddSong" class="btn2">@Resources.Resource.AddSong</a>
+        }
+        else if (Context.Session.GetString("Login") != "Admin" && Context.Session.GetString("Authorization") == "False")
+        {
+            <p class="text">@Context.Session.GetString("Login"), @Resources.Resource.NotAuthorize! <a asp-action="Logout" class="href">@Resources.Resource.Exit</a></p>
+        }
+        else
+        {
+            <p class="text">@Resources.Resource.InAdmin. <a asp-action="Logout" class="href">@Resources.Resource.Exit</a></p>
+            <a asp-action="ToUsers" class="btn2">@Resources.Resource.UserControl</a>
+            <a asp-action="ToAddSong" class="btn2">@Resources.Resource.AddSong</a>
+            <a asp-action="ToGenres" class="btn2">@Resources.Resource.GenreList</a>
+            <a asp-action="ToPerformers" class="btn2">@Resources.Resource.PerformerList</a>
+        }
+        <form class="combo" asp-action="ChangeCulture" asp-controller="Music" method="post">
+            <select class="inputs" name="lang">
+                <option disabled selected>@Resources.Resource.ChooseLang</option>
+                @foreach (var language in ViewBag.Languages)
+                {
+                    <option value="@language.ShortName">@language.Name</option>
+                }
+            </select>
+            <input type="submit" value="@Resources.Resource.Choose" class="btn ">
+        </form>
+    </section>
+    <section class="songs">
+        <div class="filtration-sorting">
+            <a class="btn2 w" asp-action="Index" asp-route-sortOrder="@(Model.SortVM!.TitleSort)" asp-route-genre="@(Model.FilterVM!.SelectedGenre)" asp-route-performer="@(Model.FilterVM!.SelectedPerformer)">@Resources.Resource.byName</a>
+
+            <a class="btn2 w" asp-action="Index" asp-route-sortOrder="@(Model.SortVM!.GenreSort)" asp-route-genre="@(Model.FilterVM!.SelectedGenre)" asp-route-performer="@(Model.FilterVM!.SelectedPerformer)">@Resources.Resource.byGenre</a>
+
+            <a class="btn2 w" asp-action="Index" asp-route-sortOrder="@(Model.SortVM!.PerformerSort)" asp-route-genre="@(Model.FilterVM!.SelectedGenre)" asp-route-performer="@(Model.FilterVM!.SelectedPerformer)">@Resources.Resource.byPerformer</a>
+
+            <form class="filtr" method="get">
+                <span>@Resources.Resource.Genre: </span>
+                <select class="inputs" name="genre" asp-items="Model.FilterVM!.Genres"></select>
+                <span>@Resources.Resource.Performer: </span>
+                <select class="inputs" name="performer" asp-items="Model.FilterVM!.Performers"></select>
+                <input type="submit" value="@Resources.Resource.Search" class="btn" />
+            </form>
+        </div>
+        @foreach (var song in Model.Songs!)
+        {
+            <div class="songplate">
+                <span>@song.Title - @song.Performer - @song.Genre</span>
+                <audio controls class="audio"> <source src="@song.Path" type="audio/mpeg"> @Resources.Resource.AudioAlert. </audio>
+                <div class="songbut">
+                    @if (Context.Session.GetString("Login") == "Admin")
+                    {
+                        <a asp-action="ToEditSong" asp-route-songId="@song.Id" class="btn2 thrd">@Resources.Resource.Edit</a>
+                        <a asp-action="DeleteSong" asp-route-songId="@song.Id" class="btn2 thrd">@Resources.Resource.Delete</a>
+                    }
+                </div>
+            </div>
+        }
+        <page-link class="pages-number" page-model="Model.PageVM" page-action="Index" page-url-genre="@(Model.FilterVM!.SelectedGenre)" page-url-performer="@(Model.FilterVM.SelectedPerformer)" page-url-sortorder="@(Model.SortVM!.Current)"></page-link>
+    </section>
+</main>

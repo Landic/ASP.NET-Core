@@ -1,0 +1,18 @@
+﻿@model MusicPortal.Models.Logon
+@{
+    ViewBag.Title = @Resources.Resource.PageLoginTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Login" enctype="multipart/form-data" class="forms log">
+    <input asp-for="Login" class="inputs" placeholder="@Resources.Resource.LoginInp" />
+    <span asp-validation-for="Login" class="text-danger"></span>
+    <input asp-for="Password" class="inputs" placeholder="@Resources.Resource.PasswordInp" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+    <input type="submit" value="@Resources.Resource.Entry" class="btn" />
+    <a asp-action="ToRegister" class="href">@Resources.Resource.NoAccount?</a>
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

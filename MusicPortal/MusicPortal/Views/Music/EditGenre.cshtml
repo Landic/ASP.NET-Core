@@ -1,0 +1,19 @@
+﻿@model MusicPortal.BLL.DTO.GenreDTO
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="EditGenre" class="forms mini">
+    <input type="hidden" asp-for="Id" />
+    <input asp-for="Name" class="inputs" placeholder="@Resources.Resource.GenreName" value="@Model.Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+    <div class="formbot">
+        <a asp-action="ToGenres" class="btn2 inbot">@Resources.Resource.Reset</a>
+        <input type="submit" value="@Resources.Resource.Edit" class="btn inbot" />
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

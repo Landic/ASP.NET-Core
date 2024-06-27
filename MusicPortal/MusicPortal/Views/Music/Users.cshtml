@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MusicPortal.BLL.DTO.UserDTO>
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<a asp-action="Index" class="btn2">@Resources.Resource.Back</a>
+<div>
+    @foreach (var user in Model) {
+        <div class="list">
+            <div>
+                <span>@user.Login (@user.FullName)</span>
+            </div>
+            <div>
+                @if (!user.IsAuthorized && user.Login != "Admin") {
+                    <a asp-action="Authorize" asp-route-userId="@user.Id" class="btn2">@Resources.Resource.Authorize</a>
+                    <a asp-action="DeleteUser" asp-route-userId="@user.Id" class="btn2">@Resources.Resource.Delete</a>
+                } else if (user.IsAuthorized && user.Login != "Admin") {
+                    <a asp-action="Authorize" asp-route-userId="@user.Id" class="btn2">@Resources.Resource.Deauthorize</a>
+                    <a asp-action="DeleteUser" asp-route-userId="@user.Id" class="btn2">@Resources.Resource.Delete</a>
+                } else {
+                    <a asp-action="Authorize" class="btn2 disabled">@Resources.Resource.Authorize</a>
+                    <a asp-action="DeleteUser" class="btn2 disabled">@Resources.Resource.Delete</a>
+                }
+            </div>
+        </div>
+    }
+</div>

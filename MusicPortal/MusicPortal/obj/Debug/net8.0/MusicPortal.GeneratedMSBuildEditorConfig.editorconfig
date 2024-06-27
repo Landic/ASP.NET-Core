@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MusicPortal
+build_property.RootNamespace = MusicPortal
+build_property.ProjectDir = D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\ASP.NET-Core\MusicPortal\MusicPortal
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/AddGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQWRkR2VucmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/AddPerformer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQWRkUGVyZm9ybWVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/AddSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcQWRkU29uZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/EditGenre.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRWRpdEdlbnJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/EditPerformer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRWRpdFBlcmZvcm1lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/EditSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcRWRpdFNvbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Genres.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcR2VucmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Performers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcUGVyZm9ybWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Music/Users.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/ASP.NET-Core/MusicPortal/MusicPortal/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sgegd3072i

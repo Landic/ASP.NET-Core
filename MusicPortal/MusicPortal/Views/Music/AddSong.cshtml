@@ -1,0 +1,30 @@
+﻿@model MusicPortal.BLL.DTO.SongDTO
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="AddSong" enctype="multipart/form-data" class="forms song">
+    <input asp-for="Title" class="inputs" placeholder="@Resources.Resource.SongTitle" />
+    <span asp-validation-for="Title" class="text-danger"></span>
+    <select asp-for="Genre" class="inputs">
+        @foreach (var genre in ViewBag.Genres) {
+            <option value="@genre.Name">@genre.Name</option>
+        }
+    </select>
+    <select asp-for="Performer" class="inputs">
+        @foreach (var performer in ViewBag.Performers) {
+            <option value="@performer.FullName">@performer.FullName</option>
+        }
+    </select>
+    <input class="btn" asp-for="Path" type="file" name="uploadedFile" accept="audio/*" />
+    <span asp-validation-for="Path" class="text-danger"></span>
+    <div class="formbot">
+        <a asp-action="Index" class="btn2 inbot">@Resources.Resource.Reset</a>
+        <input type="submit" value="@Resources.Resource.Add" class="btn inbot" />
+    </div>
+</form>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

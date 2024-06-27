@@ -1,0 +1,23 @@
+﻿@model IEnumerable<MusicPortal.BLL.DTO.PerformerDTO>
+@{
+    ViewBag.Title = @Resources.Resource.PageTitle;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="topbutt">
+    <a asp-action="Index" class="btn2">@Resources.Resource.Back</a>
+    <a asp-action="ToAddPerformer" class="btn2">@Resources.Resource.AddPerformer</a>
+</div>
+<div>
+    @foreach (var performer in Model) {
+        <div class="list">
+            <div>
+                <span>@performer.FullName</span>
+            </div>
+            <div>
+                <a asp-action="ToEditPerformer" asp-route-performerId="@performer.Id" class="btn2">@Resources.Resource.Edit</a>
+                <a asp-action="DeletePerformer" asp-route-performerId="@performer.Id" class="btn2">@Resources.Resource.Delete</a>
+            </div>
+        </div>
+    }
+</div>

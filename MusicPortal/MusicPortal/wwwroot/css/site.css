@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.forms {
+    margin: 15% auto;
+    width: 50%;
+    background-color: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+}
+
+    .forms.mini {
+        width: 33%;
+        height: auto;
+    }
+
+    .forms.song {
+        height: auto;
+        width: 50%;
+    }
+
+.inputs {
+    margin: 15px;
+    padding: 15px;
+    width: 95%;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
+
+
+.btn {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 50%;
+    margin: 15px;
+    padding: 10px;
+}
+
+    .btn:hover {
+        background-color: gray;
+        color: white;
+    }
+
+.file {
+    width: 95%;
+}
+
+
+.main-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.section-menu {
+    width: 20%;
+    height: 100%;
+    background: whitesmoke;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+    margin-top: 25px;
+}
+
+.line {
+    margin-top: -4%;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #1c1c1c;
+    border-radius: 7px;
+}
+
+.btn2 {
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 15px;
+    width: 75%;
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+    .btn2:hover {
+        background-color: gray;
+        color: white;
+    }
+
+.songs {
+    width: 80%;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.songplate {
+    padding: 15px;
+    width: 97%;
+    background: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.songbut {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.filtration-sorting {
+    padding: 15px;
+    width: 100%;
+    background: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.w {
+    width: 10%;
+}
+
+.filtr {
+    height: 50px;
+    width: 50%;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.pages-number {
+    position: absolute;
+    bottom: 0;
+}
+
+
+.combo {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: space-between;
+}
+
+
+
+
+
+.topbutt {
+    margin: 1% auto;
+    height: 6vh;
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.list {
+    margin-top: 20px;
+    width: 100%;
+    background: whitesmoke;
+    border: 1px solid gray;
+    border-radius: 25px;
+    font-size: 1.15em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px
+}
+
+
+.disabled {
+    pointer-events: none;
+    background: gray;
+    color: lightgray;
+}
+
+
+
+
+.mini {
+    height: 40vh;
+    width: 33%;
+}
+
+.formbot {
+    margin-top: 10%;
+    height: 5vh;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inbot {
+    margin: 0;
+    height: 100%;
+    width: 45%;
+}
