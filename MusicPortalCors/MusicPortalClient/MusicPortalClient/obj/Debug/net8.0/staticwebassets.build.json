@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "kIBbDtXntPy3Smd45+Yq0WRh5j/Wi3HYFycS9KYuWs8=",
+  "Source": "MusicPortalClient",
+  "BasePath": "_content/MusicPortalClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MusicPortalClient\\wwwroot",
+      "Source": "MusicPortalClient",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\",
+      "BasePath": "_content/MusicPortalClient",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\Index.html",
+      "SourceId": "MusicPortalClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\",
+      "BasePath": "_content/MusicPortalClient",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\script.js",
+      "SourceId": "MusicPortalClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\",
+      "BasePath": "_content/MusicPortalClient",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\style.css",
+      "SourceId": "MusicPortalClient",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\",
+      "BasePath": "_content/MusicPortalClient",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

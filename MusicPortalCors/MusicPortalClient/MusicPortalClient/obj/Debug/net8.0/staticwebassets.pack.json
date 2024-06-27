@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\Index.html",
+      "PackagePath": "staticwebassets\\Index.html"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\Projects\\ASP.NET-Core\\MusicPortalCors\\MusicPortalClient\\MusicPortalClient\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MusicPortalClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MusicPortalClient.props",
+      "PackagePath": "build\\MusicPortalClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicPortalClient.props",
+      "PackagePath": "buildMultiTargeting\\MusicPortalClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MusicPortalClient.props",
+      "PackagePath": "buildTransitive\\MusicPortalClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
