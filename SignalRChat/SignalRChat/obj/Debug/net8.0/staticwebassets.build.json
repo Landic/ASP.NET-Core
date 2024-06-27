@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MjrtkfoYVEhDAX0utIQP+izJENAbaeLsgucUkqnQ0Ok=",
+  "Hash": "zA8ujI2a5y1zcGmNiUVPel+SvC2okg6vTeAipt6e99s=",
   "Source": "SignalRChat",
   "BasePath": "_content/SignalRChat",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SignalRChat\\wwwroot",
       "Source": "SignalRChat",
-      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\",
       "BasePath": "_content/SignalRChat",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+      "Identity": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\",
       "BasePath": "_content/SignalRChat",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -36,12 +36,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\scritp.js",
+      "Identity": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\script.js",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\",
       "BasePath": "_content/SignalRChat",
-      "RelativePath": "scritp.js",
+      "RelativePath": "script.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\scritp.js"
+      "OriginalItemSpec": "wwwroot\\script.js"
     },
     {
-      "Identity": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+      "Identity": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
       "SourceId": "SignalRChat",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\",
       "BasePath": "_content/SignalRChat",
       "RelativePath": "style.css",
       "AssetKind": "All",

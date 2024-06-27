@@ -1,15 +1,15 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
+      "Id": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\scritp.js",
-      "PackagePath": "staticwebassets\\scritp.js"
+      "Id": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
     },
     {
-      "Id": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
+      "Id": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },
     {

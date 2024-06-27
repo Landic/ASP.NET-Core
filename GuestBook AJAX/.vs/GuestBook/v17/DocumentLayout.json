@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\controllers\\guestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\controllers\\guestbookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\views\\guestbook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\guestbook\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook ajax\\guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 31,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\appsettings.json",
+              "RelativeDocumentMoniker": "GuestBook\\appsettings.json",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\appsettings.json",
+              "RelativeToolTip": "GuestBook\\appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T00:37:40.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Views\\GuestBook\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\GuestBook\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Views\\GuestBook\\Index.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\GuestBook\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T23:16:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuestBookController.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Controllers\\GuestBookController.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Controllers\\GuestBookController.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Controllers\\GuestBookController.cs",
+              "RelativeToolTip": "GuestBook\\Controllers\\GuestBookController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:10:20.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Services\\Message.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Services\\Message.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Services\\Message.cs",
+              "RelativeToolTip": "GuestBook\\Services\\Message.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:54:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\Messages.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Models\\Messages.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\Messages.cs",
+              "RelativeToolTip": "GuestBook\\Models\\Messages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T17:37:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Services\\User.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Services\\User.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Services\\User.cs",
+              "RelativeToolTip": "GuestBook\\Services\\User.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA1wFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:17:01.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GuestBook\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GuestBook\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T18:07:50.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "GuestBook\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "GuestBook\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAAAG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-25T17:09:17.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Program.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Program.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Program.cs",
+              "RelativeToolTip": "GuestBook\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwCQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T23:23:59.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuestBook\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:03:13.977Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 25,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Models\\Login.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\Login.cs",
+              "RelativeToolTip": "GuestBook\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:44:36.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\User.cs",
+              "RelativeToolTip": "GuestBook\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:38:16.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "GuestBook\\Models\\RegisterModel.cs",
+              "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook AJAX\\GuestBook\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "GuestBook\\Models\\RegisterModel.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T08:32:52.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+﻿@{
+    ViewBag.Title = "Guest Book";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="content">
+    <div id="loginDiv" style="display:none;">
+        <h2>Login</h2>
+        <form id="loginForm">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="loginLogin">Login</label>
+                <input type="text" id="loginLogin" class="inp" />
+                <span class="text-danger" id="loginLoginError"></span>
+            </div>
+            <div class="form-group">
+                <label for="loginPassword">Password</label>
+                <input type="password" id="loginPassword" class="inp" />
+                <span class="text-danger" id="loginPasswordError"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="butt" />
+            </div>
+            <div class="form-group">
+                <a href="#" id="registerLink">Create a new account</a>
+            </div>
+            <div class="form-group">
+                <a href="#" id="continueAsGuest">Continue as guest</a>
+            </div>
+        </form>
+    </div>
+
+    <div id="registerDiv" style="display:none;">
+        <h2>Register</h2>
+        <form id="registerForm">
+            <div asp-validation-summary="ModelOnly"></div>
+            <div>
+                <label for="registerFullname">Full Name</label>
+                <input type="text" id="registerFullname" class="inp" />
+                <span class="text-danger" id="registerFullnameError"></span>
+            </div>
+            <div>
+                <label for="registerLogin">Login</label>
+                <input type="text" id="registerLogin" class="inp" />
+                <span class="text-danger" id="registerLoginError"></span>
+            </div>
+            <div>
+                <label for="registerPassword">Password</label>
+                <input type="password" id="registerPassword" class="inp" />
+                <span class="text-danger" id="registerPasswordError"></span>
+            </div>
+            <div>
+                <label for="registerPasswordConfirm">Confirm Password</label>
+                <input type="password" id="registerPasswordConfirm" class="inp" />
+                <span class="text-danger" id="registerPasswordConfirmError"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Register" class="butt" />
+            </div>
+            <div>
+                <a href="#" id="loginLink">Login to account</a>
+            </div>
+        </form>
+    </div>
+
+    <div id="messageDiv" style="display:none;">
+        <header>
+            <nav class="navbar navbar-expand-sm navbar-toggleable-sm mb-3">
+                <div class="container-fluid">
+                    <span class="navbar-brand" id="userFullName"></span>
+                    <a class="navbar-brand" href="#" id="logoutLink">Logout</a>
+                </div>
+            </nav>
+        </header>
+        <section class="section-message" id="messagesSection">
+        </section>
+        <div class="box-send">
+            <form id="sendMessageForm">
+                <div class="box-send2">
+                    <textarea placeholder="Enter message..." id="messageText" class="text"></textarea>
+                    <input type="submit" class="butt-send" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            function showLogin() {
+                $("#loginDiv").show();
+                $("#registerDiv").hide();
+                $("#messageDiv").hide();
+            }
+
+            function showRegister() {
+                $("#loginDiv").hide();
+                $("#registerDiv").show();
+                $("#messageDiv").hide();
+            }
+
+            function showMessages() {
+                $("#loginDiv").hide();
+                $("#registerDiv").hide();
+                $("#messageDiv").show();
+            }
+
+            function loadMessages() {
+                $.ajax({
+                    type: "GET",
+                    url: "/api/GuestBook/Messages",
+                    success: function (response) {
+                        var messagesSection = $("#messagesSection");
+                        messagesSection.empty();
+                        response.forEach(function (message) {
+                            var messageDiv = $("<div>").addClass("message");
+                            var boxInfoDiv = $("<div>").addClass("box-info");
+                            var fullNameSpan = $("<span>").text(message.user.fullName);
+                            var dateSpan = $("<span>").text(message.message_Date);
+                            var boxMessageDiv = $("<div>").addClass("box-message");
+                            var messageParagraph = $("<p>").text(message.message);
+                            boxInfoDiv.append(fullNameSpan).append(dateSpan);
+                            boxMessageDiv.append(messageParagraph);
+                            messageDiv.append(boxInfoDiv).append(boxMessageDiv);
+                            messagesSection.append(messageDiv);
+                        });
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            }
+
+            $("#loginForm").submit(function (event) {
+                event.preventDefault();
+                var loginData = {
+                    Login: $("#loginLogin").val(),
+                    Password: $("#loginPassword").val()
+                };
+                $.ajax({
+                    type: "POST",
+                    url: "/api/GuestBook/Login",
+                    data: JSON.stringify(loginData),
+                    contentType: "application/json",
+                    success: function (response) {
+                        $("#userFullName").text(response.fullName);
+                        showMessages();
+                        loadMessages();
+                    },
+                    error: function (response) {
+                        alert(JSON.stringify(loginData));
+                    }
+                });
+            });
+
+            $("#registerForm").submit(function (event) {
+                event.preventDefault();
+
+                var registerData = {
+                    Fullname: $("#registerFullname").val(),
+                    Login: $("#registerLogin").val(),
+                    Password: $("#registerPassword").val(),
+                    PasswordConfirm: $("#registerPasswordConfirm").val()
+                };
+
+                $.ajax({
+                    type: "POST",
+                    url: "/api/GuestBook/Register",
+                    data: JSON.stringify(registerData),
+                    contentType: "application/json",
+                    success: function (response) {
+                        showLogin();
+                    },
+                    error: function (xhr, status, error) {
+                        var errorMessage = xhr.responseText || "Произошла ошибка при выполнении запроса.";
+                        $(".text-danger").text(errorMessage);
+                    }
+                });
+            });
+
+            $("#continueAsGuest").click(function (event) {
+                event.preventDefault();
+                $.ajax({
+                    type: "POST",
+                    url: "/api/GuestBook/Continue",
+                    success: function (response) {
+                        $("#userFullName").text("Guest");
+                        showMessages();
+                        loadMessages();
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            });
+
+            $("#logoutLink").click(function (event) {
+                event.preventDefault();
+                $.ajax({
+                    type: "POST",
+                    url: "/api/GuestBook/Logout",
+                    success: function (response) {
+                        showLogin();
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            });
+
+            $("#sendMessageForm").submit(function (event) {
+                event.preventDefault();
+                var messageData = {
+                    Message: $("#messageText").val()
+                };
+                $.ajax({
+                    type: "POST",
+                    url: "/api/GuestBook/Send",
+                    data: JSON.stringify(messageData),
+                    contentType: "application/json",
+                    success: function (response) {
+                        loadMessages();
+                        $("#messageText").val('');
+                    },
+                    error: function (response) {
+                        alert(response.responseText);
+                    }
+                });
+            });
+            showLogin();
+            $("#registerLink").click(function () {
+                showRegister();
+            });
+            $("#loginLink").click(function () {
+                showLogin();
+            });
+        });
+
+
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

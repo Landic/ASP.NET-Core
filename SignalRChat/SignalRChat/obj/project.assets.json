@@ -2878,23 +2878,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diedu\\.nuget\\packages\\": {},
+    "C:\\Users\\mrwol\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+      "projectUniqueName": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
       "projectName": "SignalRChat",
-      "projectPath": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
-      "packagesPath": "C:\\Users\\diedu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\diedu\\Desktop\\Volkov_hw\\SignalRChat\\SignalRChat\\obj\\",
+      "projectPath": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\SignalRChat.csproj",
+      "packagesPath": "C:\\Users\\mrwol\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\ASP.NET-Core\\SignalRChat\\SignalRChat\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\diedu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mrwol\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

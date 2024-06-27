@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\Projects\\ASP.NET-Core\\GuestBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\services\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,31 +27,31 @@
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\message\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\views\\message\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\message\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\models\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|D:\\Projects\\ASP.NET-Core\\GuestBook\\guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|d:\\projects\\asp.net-core\\guestbook\\guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6EAB3A4C-A480-4999-9B98-9F1E1A7AFB62}|GuestBook\\GuestBook.csproj|solutionrelative:guestbook\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 28,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -74,8 +78,7 @@
               "RelativeToolTip": "GuestBook\\Models\\RegisterModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T08:32:52.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-26T08:32:52.752Z"
             },
             {
               "$type": "Document",
@@ -87,8 +90,7 @@
               "RelativeToolTip": "GuestBook\\Services\\Message.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:54:57.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:54:57.024Z"
             },
             {
               "$type": "Document",
@@ -98,7 +100,7 @@
               "RelativeDocumentMoniker": "GuestBook\\Services\\User.cs",
               "ToolTip": "D:\\Projects\\ASP.NET-Core\\GuestBook\\GuestBook\\Services\\User.cs",
               "RelativeToolTip": "GuestBook\\Services\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T20:17:01.566Z",
               "EditorCaption": ""
@@ -149,8 +151,7 @@
               "RelativeToolTip": "GuestBook\\Program.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAAAB0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T23:23:59.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T23:23:59.32Z"
             },
             {
               "$type": "Document",
@@ -193,8 +194,7 @@
               "RelativeToolTip": "GuestBook\\Controllers\\MessageController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAgwDUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T21:58:43.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T21:58:43.44Z"
             },
             {
               "$type": "Document",
