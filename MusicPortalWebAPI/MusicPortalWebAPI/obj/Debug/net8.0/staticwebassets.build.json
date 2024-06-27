@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "kvj4HCDs1NYPatvYLtthBrjH6sSSAR6wfOUumY96s8A=",
+  "Source": "MusicPortalWebAPI",
+  "BasePath": "_content/MusicPortalWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MusicPortalWebAPI\\wwwroot",
+      "Source": "MusicPortalWebAPI",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\",
+      "BasePath": "_content/MusicPortalWebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\Index.html",
+      "SourceId": "MusicPortalWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\",
+      "BasePath": "_content/MusicPortalWebAPI",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\script.js",
+      "SourceId": "MusicPortalWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\",
+      "BasePath": "_content/MusicPortalWebAPI",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\style.css",
+      "SourceId": "MusicPortalWebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\ASP.NET-Core\\MusicPortalWebAPI\\MusicPortalWebAPI\\wwwroot\\",
+      "BasePath": "_content/MusicPortalWebAPI",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
